@@ -1,48 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2321e2b-820d-49ae-bd06-d06f481c6747" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c2321e2b-820d-49ae-bd06-d06f481c6747" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ar/converters/LocalDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ar/converters/MedioDeComunicacionConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ar/repositorios/PersonaRepositorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Contactable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Contactable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" afterDir="false" />
+    </list>
+    <list id="3a05d152-0162-45e0-9a47-4a7a2b60b918" name="Changes by Matt" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" afterDir="false" />
+    </list>
+    <list id="41a9344c-06b4-4657-bffa-d4e7c243546e" name="Changes by Santiago" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="561032051">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="10" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="770" />
-          <entry key="xml" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="770" />
-          <entry key="XML" value="12" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -150,9 +140,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -171,12 +165,52 @@
       </list>
     </option>
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="10" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="4" end1="4" start2="12" end2="15" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="5" end1="5" start2="16" end2="18" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="6" end1="6" start2="19" end2="21" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="7" end1="7" start2="22" end2="24" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="8" end1="8" start2="25" end2="27" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="9" end1="9" start2="28" end2="31" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="6" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="3" end1="3" start2="7" end2="12" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="4" end1="4" start2="13" end2="15" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="5" end1="5" start2="16" end2="18" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="6" end1="6" start2="19" end2="21" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="7" end1="8" start2="22" end2="37" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="6" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
+        <range start1="5" end1="5" start2="9" end2="12" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="6" end1="6" start2="13" end2="14" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="7" end1="7" start2="15" end2="17" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="8" end1="8" start2="18" end2="20" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+        <range start1="9" end1="9" start2="21" end2="24" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1143" />
     <option name="height" value="855" />
   </component>
+  <component name="ProjectId" id="2Vj1Depd6kwP5NLWlAYNPzzGr0Y" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -224,31 +258,109 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="increa&#9;ACTION&#9;EditorIncreaseFontSize&#10;font&#9;ACTION&#9;EditorIncreaseFontSize" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695255551551" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.ar.converters" />
+      <recent name="edu.ar" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="edu.ar" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="edu.ar" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="JUnit.ContextTest.contextUp">
+    <configuration name="ContextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ar" />
+      <option name="MAIN_CLASS_NAME" value="edu.ar.ContextTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextTest.contextUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ar" />
+      <option name="MAIN_CLASS_NAME" value="edu.ar.ContextTest" />
+      <option name="METHOD_NAME" value="contextUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextTest.persistAPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ar" />
+      <option name="MAIN_CLASS_NAME" value="edu.ar.ContextTest" />
+      <option name="METHOD_NAME" value="persistAPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextTest.persistAPerson2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ar" />
+      <option name="MAIN_CLASS_NAME" value="edu.ar.ContextTest" />
+      <option name="METHOD_NAME" value="persistAPerson2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="JUnit.ContextTest.contextUp" />
+        <item itemvalue="JUnit.ContextTest.persistAPerson2" />
+        <item itemvalue="JUnit.ContextTest" />
+        <item itemvalue="JUnit.ContextTest.persistAPerson" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -259,6 +371,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695254536224</updated>
+      <workItem from="1695334583851" duration="6458000" />
     </task>
     <servers />
   </component>
@@ -293,8 +406,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
