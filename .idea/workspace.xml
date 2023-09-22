@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2321e2b-820d-49ae-bd06-d06f481c6747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ar/converters/LocalDateConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ar/converters/MedioDeComunicacionConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ar/repositorios/PersonaRepositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Contactable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Contactable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" afterDir="false" />
-    </list>
-    <list id="3a05d152-0162-45e0-9a47-4a7a2b60b918" name="Changes by Matt" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java" afterDir="false" />
-    </list>
-    <list id="41a9344c-06b4-4657-bffa-d4e7c243546e" name="Changes by Santiago" comment="" />
+    <list default="true" id="c2321e2b-820d-49ae-bd06-d06f481c6747" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,39 +140,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/main/java/edu/ar/PersonaFisica.java">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="10" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="4" end1="4" start2="12" end2="15" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="5" end1="5" start2="16" end2="18" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="6" end1="6" start2="19" end2="21" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="7" end1="7" start2="22" end2="24" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="8" end1="8" start2="25" end2="27" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="9" end1="9" start2="28" end2="31" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/src/main/java/edu/ar/Direccion.java">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="6" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="3" end1="3" start2="7" end2="12" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="4" end1="4" start2="13" end2="15" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="5" end1="5" start2="16" end2="18" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="6" end1="6" start2="19" end2="21" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="7" end1="8" start2="22" end2="37" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/src/main/java/edu/ar/PersonaJuridica.java">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="6" changelist="3a05d152-0162-45e0-9a47-4a7a2b60b918" />
-        <range start1="5" end1="5" start2="9" end2="12" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="6" end1="6" start2="13" end2="14" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="7" end1="7" start2="15" end2="17" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="8" end1="8" start2="18" end2="20" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-        <range start1="9" end1="9" start2="21" end2="24" changelist="c2321e2b-820d-49ae-bd06-d06f481c6747" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -371,7 +314,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695254536224</updated>
-      <workItem from="1695334583851" duration="6458000" />
+      <workItem from="1695334583851" duration="6778000" />
     </task>
     <servers />
   </component>
